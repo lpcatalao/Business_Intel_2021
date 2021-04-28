@@ -25,7 +25,7 @@ for i in range (101):
 
     time.sleep(7)
 
-with open("news.csv", "w") as outfile:
+with open("news2.csv", "w", newline= '') as outfile:
     writer = DictWriter(outfile, ('timestamp', 'title', 'score'))
     writer.writeheader()
     writer.writerows(articles)
