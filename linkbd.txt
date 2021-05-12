@@ -1,2 +1,0 @@
-https://www.kaggle.com/andradaolteanu/bitcoin-dogecoin-on-rapids-and-elon-musk/data?fbclid=IwAR0usSEBtq0U3HGyXge8VAamVIi4wOFWbyUwF4G2vVVaRZkqhKcx6KsXq4A
-https://www.kaggle.com/mczielinski/bitcoin-historical-data?fbclid=IwAR27esj7B1FzFhZfF3ZVcpjFipVDwARHw4oxPfiu8Ww1uoFiQhPrfS-ulL0
